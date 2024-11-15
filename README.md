@@ -1,5 +1,5 @@
 # Online Book Store Project in PHP with Free Source Code
-The Online Book Store Project In PHP is a combination of e-commerce and the book sales industry. It has many benefits, such as a small store size that saves money.
+The **Online Book Store Project in PHP** is a combination of e-commerce and the book sales industry. It has many benefits, such as a small store size that saves money.
 
 The ability to make transactions at any time and from anywhere, and better customer service.
 
